@@ -1,5 +1,3 @@
-You asked me to make a description for your project, which is about creating some Telegram bots using Node.js and JavaScript. Here is a possible description that you can use:
-
 # Telegram Bots Project
 
 This project is a collection of Telegram bots that I created to learn and practice the Telegram Bot API. The bots are written in Node.js and JavaScript, using different libraries and frameworks. The bots can perform various functions, such as sending and receiving messages, commands, and inline queries. The bots are also fun and interactive, using emojis and other features. 🤖
